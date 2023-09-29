@@ -27,8 +27,11 @@ This XLab repository contains variety of example notebooks to explore on recomme
 |04 collaborative filtering memory-based      |  [04 solution github](https://github.com/biodatlab/xlab-recommendation/blob/main/solution_notebooks/04_collaborative_filtering_memory_based.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/biodatlab/xlab-recommendation/blob/main/solution_notebooks/04_collaborative_filtering_memory_based.ipynb) |
 |05 CLIP image search       |  [05 solution github](https://github.com/biodatlab/xlab-recommendation/blob/main/solution_notebooks/05_CLIP_image_search.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/biodatlab/xlab-recommendation/blob/main/solution_notebooks/05_CLIP_image_search.ipynb) |
 |06 Pre-trained CLIP image search       |  [06 solution github](https://github.com/biodatlab/xlab-recommendation/blob/main/solution_notebooks/06_CLIP_image_search_pretrained.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/biodatlab/xlab-recommendation/blob/main/solution_notebooks/06_CLIP_image_search_pretrained.ipynb) |
+|HW 02 image search w/ fashion images      |  [HW 02 solution github](https://github.com/biodatlab/xlab-recommendation/blob/main/solution_notebooks/HW_02_fashion_image_search.ipynb) 
+| [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/biodatlab/xlab-recommendation/blob/main/solution_notebooks/HW_02_fashion_image_search.ipynb) |
 
 ### Homework
-
-
+| Github  | Google colab |
+|:----:| :----: |
+|[Homework Template](https://github.com/biodatlab/xlab-recommendation/blob/main/homework/homework.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/biodatlab/xlab-recommendation/blob/main/homework/homework.ipynb)
 
